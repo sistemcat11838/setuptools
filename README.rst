@@ -1,3 +1,5 @@
+@setuptools
+
 .. |pypi-version| image:: https://img.shields.io/pypi/v/setuptools.svg
    :target: https://pypi.org/project/setuptools
 
